@@ -1,2 +1,2 @@
 # Park-o
-Smart Parking app prototype 
+Proto type of Smart Parking app 
